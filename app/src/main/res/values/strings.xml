@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SquareRepos</string>
+    <string name="text_btn_commits">commits</string>
+    <string name="text_btn_contributors">contributors</string>
+</resources>
